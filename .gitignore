@@ -1,0 +1,22 @@
+# Android / Gradle build outputs
+build/
+*/build/
+.gradle/
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+
+# MacOS
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json

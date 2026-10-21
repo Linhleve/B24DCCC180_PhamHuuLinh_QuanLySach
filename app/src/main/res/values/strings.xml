@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản Lý Sách</string>
+
+    <!-- Thông báo đăng nhập -->
+    <string name="loi_dang_nhap">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <!-- Tình trạng sách -->
+    <string name="chua_doc">Chưa đọc</string>
+    <string name="dang_doc">Đang đọc</string>
+    <string name="da_doc">Đã đọc</string>
+
+    <!-- Thể loại sách (dùng trong Spinner) -->
+    <string-array name="the_loai_array">
+        <item>Văn học</item>
+        <item>Khoa học</item>
+        <item>Công nghệ</item>
+        <item>Kỹ năng sống</item>
+        <item>Khác</item>
+    </string-array>
+
+    <!-- Các nhãn -->
+    <string name="them_sach">Thêm sách</string>
+    <string name="luu_sach">Lưu sách</string>
+    <string name="quay_lai">Quay lại</string>
+    <string name="xoa_sach">Xóa sách</string>
+    <string name="danh_dau_da_doc">Đánh dấu đã đọc</string>
+    <string name="khong_co_ghi_chu">Không có ghi chú</string>
+</resources>

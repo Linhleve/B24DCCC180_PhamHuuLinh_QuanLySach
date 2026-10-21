@@ -1,0 +1,4 @@
+// Top-level build file - cấu hình chung cho toàn project
+plugins {
+    alias(libs.plugins.android.application) apply false
+}
